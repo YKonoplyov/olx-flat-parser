@@ -59,5 +59,5 @@
 
 ## Conclusion
 Price, floor, all floors of house, locality and area of flats wath parsed with selenium
-### Execution time ~6 minutes.
+
 ### [Sheet with results](https://docs.google.com/spreadsheets/d/1lY0sYzoVTeILkiz2S6gI3mfULvIwGB0aqUaaRSOynnE/edit?usp=sharing)
